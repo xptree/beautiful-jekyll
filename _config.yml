@@ -24,7 +24,10 @@ description: Jiezhong's homepage
 # List of links in the navigation bar
 navbar-links:
 #  About Me: "aboutme"
-  Publications: "publications"
+ Publications: "publications"
+ Google Scholar: "https://scholar.google.com/citations?user=3rlMzwYAAAAJ"
+ Resume: "/img/cv_jiezhong_qiu.pdf"
+   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
